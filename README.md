@@ -15,11 +15,11 @@ Lowest signups: September–December
 Focus signup/lead-gen emails early in the year
 
 ### User Segmentation Findings
-Region and device type showed no meaningful differences in open, click, or unsubscribe rates
+Region and device type showed no meaningful differences in open, click, or unsubscribe rates.
 No segmentation adjustments needed at this time
 
 ### Unsubscribe Behavior
-Privacy concerns were the top unsubscribe reason across all campaigns
+Privacy concerns were the top unsubscribe reason across all campaigns.
 Improve clarity around data usage, privacy statements, and email preferences
 
 ### Campaign Performance Review
