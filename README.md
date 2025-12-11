@@ -1,9 +1,9 @@
 # SQL_Email_Marketing_Dashboard
 
 ## Purpose 
-This project analyzes email marketing performance across 20 campaigns. Using SQL for data cleaning and exploration and Tableau for visualization, I evaluated engagement KPIs such as open rate, click rate, open-to-click efficiency, unsubscribe behavior, and signup trends over time. The goal was to identify what’s working, where engagement drops, and which campaigns drive the highest or lowest performance. Each SQL file in this folder has my SQL code with analysis from the data that was manipulated
+This project analyzes email marketing performance across 20 campaigns. Using SQL for data cleaning and exploration and Tableau for visualization, I evaluated engagement KPIs such as open rate, click rate, open-to-click efficiency, unsubscribe behavior, and signup trends over time. The goal was to identify what’s working, where engagement drops, and which campaigns drive the highest or lowest performance. Each SQL file in this folder has my SQL code with analysis from the data that was manipulated.
 
-## Recomendations and Insights 
+## Recomendations and Insights Based on Analysis
 ### Send Time Optimization
 Best days to send: Thursday & Friday
 Best times: 6:00 AM, 11:00 AM, and Thursday at 1:00 PM
